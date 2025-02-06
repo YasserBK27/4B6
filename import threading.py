@@ -9,8 +9,8 @@ def start_timer(seconds, callback):
     def my_sleep():
         
         
-        for i in range (1,6): 
-        print (i, "mississipi")
+        for i in range (1,9): 
+        print (i, "bateau-bateau")
         time.sleep(seconds)
         callback()
     
