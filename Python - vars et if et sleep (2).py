@@ -6,7 +6,7 @@ toggle = True
 # Boucle infinie
 while True:
     if toggle:
-        print("allo")
+        print("bonsoir")
     else:
         print("bonjour")
     
